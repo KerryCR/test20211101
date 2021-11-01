@@ -1,0 +1,32 @@
+# Solution for model generateRegularFlights
+# Objective value = 10
+l[0,0] 1
+l[0,1] 0
+l[1,0] 1
+l[1,1] 0
+l[2,0] 0
+l[2,1] 1
+l[3,0] 1
+l[3,1] 0
+l[4,0] 0
+l[4,1] 1
+l[5,0] 1
+l[5,1] 0
+l[6,0] 1
+l[6,1] 0
+l[7,0] 0
+l[7,1] 1
+l[8,0] 1
+l[8,1] 0
+l[9,0] 0
+l[9,1] 1
+FightUse[0,0] 1
+FightUse[1,0] 1
+FightUse[2,0] 1
+FightUse[3,0] 1
+FightUse[4,0] 1
+FightUse[5,0] 1
+FightUse[6,0] 1
+FightUse[7,0] 1
+FightUse[8,0] 1
+FightUse[9,0] 1
